@@ -1,1 +1,1 @@
-Pass : infected
+Pass : malware
